@@ -44,10 +44,12 @@
 <p>• Logistics/Welfare of staffs, labor and equipment</p>
 <p>• Materials costing</p>
 <p>Skills: Human Resource & Organizational skills</p>
+<footer>
 <h4>Across the internet</h4>
-<p>LinkedIn: https://www.linkedin.com/in/billiondollarcodes/</p>
-<p>GitHub: https://github.com/Codepros007</p>
+<a href="https://www.linkedin.com/in/billiondollarcodes/">LinkedIn</a>
+<a href="https://github.com/Codepros007">GitHub</a>
 <p>Project URL: https://roadmap.sh/projects/single-page-cv</p>
+</footer>
 
 </main>
 </body>
