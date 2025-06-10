@@ -47,6 +47,7 @@
 <h4>Across the internet</h4>
 <p>LinkedIn: https://www.linkedin.com/in/billiondollarcodes/</p>
 <p>GitHub: https://github.com/Codepros007</p>
+<p>Project URL: https://roadmap.sh/projects/single-page-cv</p>
 
 </main>
 </body>
